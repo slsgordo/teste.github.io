@@ -1,0 +1,74 @@
+*
+{   
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*         PALETA DE CORES
+
+    #B88B4A
+    #A27035
+    #533E2D
+    #DDCA7D
+    #242331
+
+*/
+
+body
+{
+    background-color: #A27035;
+}
+
+.cont
+{
+    background-color: #B88B4A;
+    box-shadow: 0px 0px 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.cont a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+h1
+{
+    font-family: Awesome;
+}
+
+h2
+{
+    font-family: Amsterdam;
+}
+
+p
+{
+    font: 800 20px Louis;
+}
+
+.direitos
+{
+    color: #fff;
+    background-color: #242331;
+    margin-top: 50px;
+    padding: 50px 200px;
+}
+
+.copy
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.copy img
+{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10%;
+    margin-right: 40px;
+}

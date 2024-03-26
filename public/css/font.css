@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Awesome;
+    src: url(/public/assets/fonts/Awesome.otf);
+}
+
+@font-face {
+    font-family: Amsterdam;
+    src: url(/public/assets/fonts/Amsterdam.ttf);
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts/Louis.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts/Louis\ George\ Cafe\ Italic.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts/Louis\ George\ Cafe\ Light.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts//Louis\ George\ Cafe\ Light\ Italic.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts/Louis\ George\ Cafe\ Bold.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Louis;
+    src: url(/public/assets/fonts/Louis\ George\ Cafe\ Bold\ Italic.ttf);
+    font-weight: 900;
+}

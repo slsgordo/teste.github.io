@@ -1,0 +1,164 @@
+.padding
+{
+    padding: 5% 5%;
+}
+
+.cont
+{
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom: 3px solid #A27035;
+    background-color: #fff1b8;
+}
+
+.about
+{
+    gap: 20px;
+}
+
+.about img
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 5px 5px;   
+    background-color: #A27035;
+    border-radius: 20px;
+}
+
+.about img:hover
+{
+    background-color: #C0975D;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+
+.logo
+{
+    background-color: #A27035;
+    padding: 50px;
+    border-radius: 10%;
+    box-shadow: 0px 0px 10px;
+}
+
+.nav
+{
+    display: flex;
+    text-align: center;
+    font-family: Amsterdam;
+    background-color: #A27035;
+    border-radius: 20px;
+}
+
+nav
+{
+    background-color: #A27035;
+    border-radius: 20px;
+}
+
+nav:hover
+{
+    background-color: #C0975D;
+    transition: 0.5s;
+    text-decoration: underline;
+    border-radius: 20px;
+}
+
+.nav a
+{
+    padding: 5px 15px;
+}
+
+
+/*
+
+BIG
+
+*/
+
+.big
+{
+    display: flex;
+    flex-direction: row;
+    padding: 40px 0px;
+}
+
+.welcome
+{
+    margin-right: 70px;
+}
+
+.text
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    background-color: #B08345;
+    padding: 20px 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px #000;
+    background-image: url(/public/assets/images/background-card.jpg);
+}
+
+.text p
+{
+    width: 20vw;
+    background-color: #B88B4A;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px;
+}
+
+.text img
+{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    box-shadow: 0px 0px 5px #000;   
+}
+
+#info
+{
+    width: 400px;
+    flex-direction: column;
+}
+
+#info img
+{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0px;
+    margin-bottom: 10px; 
+}
+
+#sonho img
+{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.separation
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+}
